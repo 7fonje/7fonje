@@ -1,7 +1,6 @@
 ## Hi there 👋 This is Frida Fengyu Liu
 
-## 📫 Contact Me
-- **Email:** [frida.liu77@gmail.com](mailto:frida.liu77@gmail.com)
+📫 **Contact:** [frida.liu77@gmail.com](mailto:frida.liu77@gmail.com)
 
 <!--
 **7fonje/7fonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
