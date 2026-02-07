@@ -1,6 +1,7 @@
-# Hi there 👋  This is Frida Fengyu LIU.
+# Hi there👋🏼  This is Frida Fengyu LIU.
 
 **Technical Specialist @ Apple** | **University of Edinburgh Grad**
+
 *CS · Data · Applied AI · Software Development*
 
 ## 📫 Contact Me
