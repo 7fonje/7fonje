@@ -12,15 +12,33 @@
 
 ## 🏗 Featured Projects
 
-### 🔍 Text Technologies for Data Science (TTDS) 
-*Collaborative Group Project | Completed ~1 Year Ago*
+### ⚖️ Measuring Bias-Induced Allocational Harms in Credit Scoring with Large Language Model
+*MSc Dissertation (Merit)
 
-This was a private academic project focused on building an end-to-end search engine.
+This was a private academic project focused on building an end-to-end search engine utilising the knowledge of interval retrieval, text classification, and text analysis.
 - **Tech Stack:** Python, [Insert other tech, e.g., PyTorch, Elasticsearch]
 - **Key Contributions:** - Designed the [Insert what you did, e.g., indexing pipeline or ranking algorithm].
   - Optimised retrieval performance for large-scale datasets.
-- **Note:** *This repository is set to private to maintain academic integrity and respect group ownership. I am happy to discuss the architecture and my specific contributions during interviews.*
+- **Note:** *This repository is set to private to maintain academic integrity and respect group ownership. I am happy to discuss the architecture and my specific contributions.*
 
+
+### 🔍 Wikipedia-Based Image Search
+*TTDS Group Project
+
+This was a private academic project focused on building an end-to-end search engine utilising the knowledge of interval retrieval, text classification, and text analysis.
+- **Tech Stack:** Python, [Insert other tech, e.g., PyTorch, Elasticsearch]
+- **Key Contributions:** - Designed the [Insert what you did, e.g., indexing pipeline or ranking algorithm].
+  - Optimised retrieval performance for large-scale datasets.
+- **Note:** *This repository is set to private to maintain academic integrity and respect group ownership. I am happy to discuss the architecture and my specific contributions.*
+
+### 💬 An Interactive Chatbot for University Open Day
+*Published in 2022 IEEE 13th International Conference on Software Engineering and Service Science (ICSESS)
+
+This was a private academic project focused on building an end-to-end search engine utilising the knowledge of interval retrieval, text classification, and text analysis.
+- **Tech Stack:** Python, [Insert other tech, e.g., PyTorch, Elasticsearch]
+- **Key Contributions:** - Designed the [Insert what you did, e.g., indexing pipeline or ranking algorithm].
+  - Optimised retrieval performance for large-scale datasets.
+- **Note:** *This repository is set to private to maintain academic integrity and respect group ownership. I am happy to discuss the architecture and my specific contributions.*
 
 
 ## 🛠 Skills
