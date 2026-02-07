@@ -15,30 +15,22 @@
 ### ⚖️ Measuring Bias-Induced Allocational Harms in Credit Scoring with Large Language Model
 *MSc Dissertation (Merit)*
 
-This was a private academic project focused on building an end-to-end search engine utilising the knowledge of interval retrieval, text classification, and text analysis.
-- **Tech Stack:** Python, [Insert other tech, e.g., PyTorch, Elasticsearch]
-- **Key Contributions:** - Designed the [Insert what you did, e.g., indexing pipeline or ranking algorithm].
-  - Optimised retrieval performance for large-scale datasets.
-- **Note:** *This repository is set to private to maintain academic integrity and respect group ownership. I am happy to discuss the architecture and my specific contributions.*
+Designed and implemented LLM-based credit scoring models in Python to analyse bias and allocational harms, applying fairness metrics to quantitatively evaluate model biases and documenting discoveries and findings in the thesis.
 
 
 ### 🔍 Wikipedia-Based Image Search
 *TTDS Group Project*
 
 This was a private academic project focused on building an end-to-end search engine utilising the knowledge of interval retrieval, text classification, and text analysis.
-- **Tech Stack:** Python, [Insert other tech, e.g., PyTorch, Elasticsearch]
-- **Key Contributions:** - Designed the [Insert what you did, e.g., indexing pipeline or ranking algorithm].
+- **Tech Stack:** Python, PostgreSQL, FastAPI, GCP, 
+- **Key Contributions:**
+  - Designed the indexing pipeline and ranking algorithm.
   - Optimised retrieval performance for large-scale datasets.
 - **Note:** *This repository is set to private to maintain academic integrity and respect group ownership. I am happy to discuss the architecture and my specific contributions.*
 
 ### 💬 An Interactive Chatbot for University Open Day
 *Published in 2022 IEEE 13th International Conference on Software Engineering and Service Science (ICSESS)*
 
-This was a private academic project focused on building an end-to-end search engine utilising the knowledge of interval retrieval, text classification, and text analysis.
-- **Tech Stack:** Python, [Insert other tech, e.g., PyTorch, Elasticsearch]
-- **Key Contributions:** - Designed the [Insert what you did, e.g., indexing pipeline or ranking algorithm].
-  - Optimised retrieval performance for large-scale datasets.
-- **Note:** *This repository is set to private to maintain academic integrity and respect group ownership. I am happy to discuss the architecture and my specific contributions.*
 
 
 ## 🛠 Skills
