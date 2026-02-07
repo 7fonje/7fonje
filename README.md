@@ -1,7 +1,9 @@
-## Hi there 👋 This is Frida Fengyu Liu
+## Hi there 👋 This is Frida Fengyu LIU
 
 📫 **Contact:** [frida.liu77@gmail.com](mailto:frida.liu77@gmail.com)
 
+
+🌱 I graduated from the University of Edinburgh in 2024. I've been working at Apple as a Technical Specialist, while continuing to develop and explore my passions in Data, Applied AI, and Software Development! 
 <!--
 **7fonje/7fonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
