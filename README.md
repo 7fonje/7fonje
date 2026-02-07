@@ -6,7 +6,7 @@
 
 ## 📫 Contact Me
 - **Email:** [frida.liu77@gmail.com](mailto:frida.liu77@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/fengyuliu-frida]
+- **LinkedIn:** https://www.linkedin.com/in/fengyuliu-frida
 
 ---
 
