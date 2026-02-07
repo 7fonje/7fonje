@@ -13,7 +13,7 @@
 ## 🏗 Featured Projects
 
 ### ⚖️ Measuring Bias-Induced Allocational Harms in Credit Scoring with Large Language Model
-*MSc Dissertation (Merit)
+*MSc Dissertation (Merit)*
 
 This was a private academic project focused on building an end-to-end search engine utilising the knowledge of interval retrieval, text classification, and text analysis.
 - **Tech Stack:** Python, [Insert other tech, e.g., PyTorch, Elasticsearch]
@@ -23,7 +23,7 @@ This was a private academic project focused on building an end-to-end search eng
 
 
 ### 🔍 Wikipedia-Based Image Search
-*TTDS Group Project
+*TTDS Group Project*
 
 This was a private academic project focused on building an end-to-end search engine utilising the knowledge of interval retrieval, text classification, and text analysis.
 - **Tech Stack:** Python, [Insert other tech, e.g., PyTorch, Elasticsearch]
@@ -32,7 +32,7 @@ This was a private academic project focused on building an end-to-end search eng
 - **Note:** *This repository is set to private to maintain academic integrity and respect group ownership. I am happy to discuss the architecture and my specific contributions.*
 
 ### 💬 An Interactive Chatbot for University Open Day
-*Published in 2022 IEEE 13th International Conference on Software Engineering and Service Science (ICSESS)
+*Published in 2022 IEEE 13th International Conference on Software Engineering and Service Science (ICSESS)*
 
 This was a private academic project focused on building an end-to-end search engine utilising the knowledge of interval retrieval, text classification, and text analysis.
 - **Tech Stack:** Python, [Insert other tech, e.g., PyTorch, Elasticsearch]
@@ -49,7 +49,7 @@ This was a private academic project focused on building an end-to-end search eng
 ---
 
 > [!NOTE]
-> **Privacy Settings:** I have chosen to hide my public contribution graph and activity feed. For a better understanding of my technical experience, please feel free to browse my public repositories or reach out via email.
+> **Privacy Settings:** I have chosen to hide my public contribution graph and activity feed. If you're interested in more, please feel free to browse my public repositories or reach out via email.
 > 
 <!--
 **7fonje/7fonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
