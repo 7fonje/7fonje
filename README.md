@@ -1,6 +1,5 @@
 # Hi there👋🏼  This is Frida Fengyu LIU.
 
----
 
 **Technical Specialist @ Apple** | **University of Edinburgh Grad**
 
@@ -22,7 +21,7 @@ This was a private academic project focused on building an end-to-end search eng
   - Optimised retrieval performance for large-scale datasets.
 - **Note:** *This repository is set to private to maintain academic integrity and respect group ownership. I am happy to discuss the architecture and my specific contributions during interviews.*
 
----
+
 
 ## 🛠 Skills
 - **Languages:** Python, SQL, Java, PHP, JavaScript, Bash/Shell, Solidity
