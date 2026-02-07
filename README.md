@@ -1,5 +1,7 @@
 # Hi there👋🏼  This is Frida Fengyu LIU.
 
+---
+
 **Technical Specialist @ Apple** | **University of Edinburgh Grad**
 
 *CS · Data · Applied AI · Software Development*
@@ -8,7 +10,6 @@
 - **Email:** [frida.liu77@gmail.com](mailto:frida.liu77@gmail.com)
 - **LinkedIn:** https://www.linkedin.com/in/fengyuliu-frida
 
----
 
 ## 🏗 Featured Projects
 
@@ -24,9 +25,9 @@ This was a private academic project focused on building an end-to-end search eng
 ---
 
 ## 🛠 Skills
-- **Languages:** Python, SQL, [Insert more]
-- **Frameworks:** [Insert frameworks like Scikit-Learn, React, etc.]
-- **Tools:** Git, Linux, Docker
+- **Languages:** Python, SQL, Java, PHP, JavaScript, Bash/Shell, Solidity
+- **Frameworks:** PyTorch, TensorFlow, Scikit-Learn, Pandas & NumPy, Hugging Face, Matplotlib & Seaborn, NLTK, React, FastAPI, Flask, PostgreSQL
+- **Tools:** Git, Linux, Docker, Tableau, Google Cloud (GCP), Jupyter Notebook, VS Code
 
 ---
 
